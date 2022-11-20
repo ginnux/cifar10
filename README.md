@@ -1,5 +1,5 @@
 # cifar10
-An deep-learning program of computer vision, which finishes CIFAR-10 pictures classification.  
+A deep-learning program of computer vision, which finishes CIFAR-10 pictures classification.  
 
 ## Necessary Python Lib
 torch (1.13 for cuda 11.7)  
