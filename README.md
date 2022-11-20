@@ -20,6 +20,6 @@ set 3 for checking both testset and trainset
 ### REPEAT:
 times of training  
 
-##Notice
+## Notice
 The first time to train maybe you can set trainMode 2 and REPEAT 20.  
 Training with CPU will be VERY VERY SLOW!  
