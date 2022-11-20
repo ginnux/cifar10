@@ -1,4 +1,4 @@
-# cifar10
+# CIFAR-10 Classification
 A deep-learning program of computer vision, which finishes CIFAR-10 pictures classification.  
 
 ## Necessary Python Lib
