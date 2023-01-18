@@ -28,3 +28,7 @@ Training with CPU will be VERY VERY SLOW!
 
 首次训练可以将trainmode设置为2，REPEAT设置为20。
 如果基于CPU训练会非常缓慢，建议使用NVIDIA显卡训练。
+
+## Outcome 结果
+The accuracy of training is 95.73%, the accuracy of testing is 88.74%.
+![img](https://github.com/Gins-X/cifar10/blob/main/LOSS-25E4.PNG)
